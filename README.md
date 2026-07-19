@@ -55,4 +55,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gavy2006/CodeData/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
