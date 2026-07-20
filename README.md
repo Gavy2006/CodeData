@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Gavy2006/CodeData/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Gavy2006/CodeData/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Gavy2006/CodeData/tree/master/1049-last-stone-weight-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Gavy2006/CodeData/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Gavy2006/CodeData/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Gavy2006/CodeData/tree/master/1049-last-stone-weight-ii) |
 ## Matrix
 |  |
 | ------- |
