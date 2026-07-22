@@ -1,35 +1,34 @@
 class Solution {
-    public boolean canPartition(int[] nums) {
+    public boolean canPartition(int[] arr) {
         
-        int num = 0 ;
+        int sum = 0 ;
 
-        for(int no : nums){
-         num = num  + no ;
-        }
+    for(int no : arr){
+        sum+=no ;
+    }
 
-        if(num %2 !=0 ) return false ;
+       if(sum%2 != 0) return false ;
 
-        Boolean dp[][] = new Boolean[nums.length][num] ;
-
-        return mycode(nums , 0 , 0 , num , dp) ;
+       Boolean[][] dp = new Boolean[arr.length][sum/2 + 1] ;
+    
+        return mycode(arr , 0 , dp , sum/2 , 0) ;
          
     }
 
-    public static boolean mycode(int[] nums , int sum ,int index , int num , Boolean[][] dp){
+    public static boolean mycode(int[] arr , int index , Boolean[][] dp , int target , int sum ){
 
-        if(index == nums.length) return false ;
-  
-        if(dp[index][sum] != null) return dp[index][sum] ;
+  if (sum == target) return true;
 
-        if(sum == num/2) return true ;
+if (index == arr.length) return false;
 
-        boolean take = false ;
-        boolean nottake = false ;
+if (sum > target) return false;
+if (dp[index][sum] != null) return dp[index][sum];
 
-        take = mycode(nums ,  sum + nums[index] , index + 1 , num , dp) ;
-        nottake = mycode(nums ,  sum  , index + 1 , num , dp) ;
 
-         dp[index][sum] = take || nottake  ;
-        return  dp[index][sum] ;
+        dp[index][sum] = mycode(arr , index+1 , dp , target , sum+arr[index] ) || mycode(arr , index+1 , dp , target , sum) ;
+
+       
+       return dp[index][sum] ;
+
     }
 }
