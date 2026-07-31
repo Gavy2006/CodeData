@@ -1,21 +1,29 @@
 class Solution {
+
     public boolean isBalanced(TreeNode root) {
-        
-        if(root == null) return true ;
 
-        if (Math.abs(mycode(root.left) - mycode(root.right)) > 1)
+        if (root == null)
+            return true;
+
+        int a = mycode(root.left);
+        int b = mycode(root.right);
+
+        if (Math.abs(a - b) > 1) {
             return false;
+        }
 
-        return isBalanced(root.left) && isBalanced(root.right) ;
+        return isBalanced(root.right) && isBalanced(root.left);
+
     }
 
-    public static int mycode(TreeNode node){
+    public static int mycode(TreeNode node) {
 
-        if(node == null) return 0 ;
+        if (node == null)
+            return 0;
 
-        int a = mycode(node.left) ;
-        int b = mycode(node.right) ;
+        int a = 1 + mycode(node.left);
+        int b = 1 + mycode(node.right);
 
-        return 1 + Math.max(a , b) ;
+        return Math.max(a, b);
     }
 }
