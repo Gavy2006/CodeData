@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gavy2006/CodeData/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gavy2006/CodeData/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gavy2006/CodeData/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Gavy2006/CodeData/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gavy2006/CodeData/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gavy2006/CodeData/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gavy2006/CodeData/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Gavy2006/CodeData/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Gavy2006/CodeData/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gavy2006/CodeData/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gavy2006/CodeData/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Gavy2006/CodeData/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gavy2006/CodeData/tree/master/0013-roman-to-integer) |
+| [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Gavy2006/CodeData/tree/master/0474-ones-and-zeroes) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gavy2006/CodeData/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -120,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Gavy2006/CodeData/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
