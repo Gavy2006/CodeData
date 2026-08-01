@@ -12,8 +12,8 @@ class Solution {
 
     public static int mycode(int[][] matrix, Integer[][] dp, int row, int col) {
 
-        if (row == matrix.length)
-            return 0;
+        if (row == matrix.length - 1)
+    return matrix[row][col];
 
         if (dp[row][col] != null)
             return dp[row][col];
