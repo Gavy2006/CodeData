@@ -1,31 +1,33 @@
 class Solution {
-
     public int findTargetSumWays(int[] nums, int target) {
 
-        int total = 0;
-        for (int x : nums) {
-            total += x;
-        }
+        int sum = 0;
+        for (int x : nums)
+            sum += x;
 
-        Integer[][] dp = new Integer[nums.length][2 * total + 1];
+        if (Math.abs(target) > sum)
+            return 0;
 
-        return mycode(nums, target, 0, dp, 0, total);
+        Integer[][] dp = new Integer[nums.length][2 * sum + 1];
+
+        return mycode(nums, 0, target, 0, sum, dp);
     }
 
-    public static int mycode(int[] nums, int target, int index, Integer[][] dp, int sum, int total) {
+    public static int mycode(int[] nums, int curr, int target, int index,
+                             int offset, Integer[][] dp) {
 
-        if (index == nums.length) {
-            return sum == target ? 1 : 0;
-        }
+        if (index == nums.length)
+            return curr == target ? 1 : 0;
 
-        if (dp[index][sum + total] != null) {
-            return dp[index][sum + total];
-        }
+        if (dp[index][curr + offset] != null)
+            return dp[index][curr + offset];
 
-        int plus = mycode(nums, target, index + 1, dp, sum + nums[index], total);
+        int plus = mycode(nums, curr + nums[index], target,
+                          index + 1, offset, dp);
 
-        int minus = mycode(nums, target, index + 1, dp, sum - nums[index], total);
+        int minus = mycode(nums, curr - nums[index], target,
+                           index + 1, offset, dp);
 
-        return dp[index][sum + total] = plus + minus;
+        return dp[index][curr + offset] = plus + minus;
     }
 }
