@@ -1,46 +1,39 @@
 class Solution {
+    public int minFallingPathSum(int[][] matrix) {
 
-    public int minFallingPathSum(int[][] arr) {
+        Integer[][] dp = new Integer[matrix.length][matrix[0].length];
 
-       Integer[][] dp = new Integer[arr.length][arr[0].length];
-
-
-        int min = Integer.MAX_VALUE;
-
-        for (int i = 0; i < arr[0].length; i++) {
-
-            int a = mycode(arr, dp, 0, i);
-
-            min = Math.min(min, a);
+        int ans = Integer.MAX_VALUE;
+        for (int j = 0; j < matrix[0].length; j++) {
+            ans = Math.min(ans, mycode(matrix, dp, 0, j));
         }
-        return min;
+        return ans;
     }
 
-    public static int mycode(int[][] arr, Integer [][] dp, int row, int col) {
+    public static int mycode(int[][] matrix, Integer[][] dp, int row, int col) {
 
-        if (row == arr.length - 1) {
-            return arr[row][col];
-        }
+        if (row == matrix.length)
+            return 0;
 
-        if (dp[row][col] != null) {
+        if (dp[row][col] != null)
             return dp[row][col];
-        }
-        int r = arr[row][col] + mycode(arr, dp, row + 1, col);
 
-        int c = Integer.MAX_VALUE;
-        if (col < arr[0].length - 1) {
-            c = arr[row][col] + mycode(arr, dp, row + 1, col + 1);
-        }
+        int left = Integer.MAX_VALUE;
+        int right = Integer.MAX_VALUE;
+        int down = Integer.MAX_VALUE;
 
-        int d = Integer.MAX_VALUE;
         if (col > 0) {
-            d = arr[row][col] + mycode(arr, dp, row + 1, col - 1);
+            left = matrix[row][col] + mycode(matrix, dp, row + 1, col - 1);
         }
 
-        dp[row][col] = Math.min(r, Math.min(c, d));
+        if (col < matrix[0].length - 1) {
+            right = matrix[row][col] + mycode(matrix, dp, row + 1, col + 1);
+        }
 
+        down = matrix[row][col] + mycode(matrix, dp, row + 1, col);
+
+        dp[row][col] = Math.min(left, Math.min(right, down));
 
         return dp[row][col];
-
     }
 }
