@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Gavy2006/CodeData/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Gavy2006/CodeData/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Gavy2006/CodeData/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0064-minimum-path-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Gavy2006/CodeData/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Gavy2006/CodeData/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Gavy2006/CodeData/tree/master/0120-triangle) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Gavy2006/CodeData/tree/master/0494-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Gavy2006/CodeData/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
