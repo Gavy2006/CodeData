@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gavy2006/CodeData/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Gavy2006/CodeData/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
