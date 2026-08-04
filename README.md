@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Gavy2006/CodeData/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gavy2006/CodeData/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Gavy2006/CodeData/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Gavy2006/CodeData/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Gavy2006/CodeData/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gavy2006/CodeData/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0931-minimum-falling-path-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Gavy2006/CodeData/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Gavy2006/CodeData/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Gavy2006/CodeData/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gavy2006/CodeData/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
