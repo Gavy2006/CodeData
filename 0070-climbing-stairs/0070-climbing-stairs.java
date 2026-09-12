@@ -1,28 +1,26 @@
 class Solution {
     public int climbStairs(int n) {
 
-        int[] dp = new int[n + 1];
-
-        Arrays.fill(dp, -1);
-
-        return mycode(n, dp);
+        Integer[] dp = new Integer[n + 1];
+        return mycode(0, n, dp);
     }
 
-    public static int mycode(int n, int[] dp) {
+    public static int mycode(int i, int n, Integer[] dp) {
 
-   
-        if (dp[n] != -1) {
-            return dp[n];
+        if (i == n) {
+            return 1;
         }
 
-        if (n == 0 || n == 1) {
-            dp[n] = 1;
-            return dp[n];
+        if (i > n) {
+            return 0;
         }
- 
 
-       dp[n] = mycode(n - 1, dp) + mycode(n - 2, dp);
+        if (dp[i] != null) {
+            return dp[i];
+        }
+        int a = mycode(i + 1, n, dp);
+        int b = mycode(i + 2, n, dp);
 
-        return dp[n];
+        return dp[i] = a + b;
     }
 }
