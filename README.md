@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gavy2006/CodeData/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Gavy2006/CodeData/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/Gavy2006/CodeData/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Gavy2006/CodeData/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Gavy2006/CodeData/tree/master/0120-triangle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Gavy2006/CodeData/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Gavy2006/CodeData/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Gavy2006/CodeData/tree/master/0176-second-highest-salary) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Gavy2006/CodeData/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
