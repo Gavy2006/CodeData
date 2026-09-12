@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Gavy2006/CodeData/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
