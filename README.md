@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Gavy2006/CodeData/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gavy2006/CodeData/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0860-lemonade-change](https://github.com/Gavy2006/CodeData/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Gavy2006/CodeData/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Gavy2006/CodeData/tree/master/1049-last-stone-weight-ii) |
 ## Matrix
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gavy2006/CodeData/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0875-koko-eating-bananas](https://github.com/Gavy2006/CodeData/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
