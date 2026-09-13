@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gavy2006/CodeData/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Gavy2006/CodeData/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Gavy2006/CodeData/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Gavy2006/CodeData/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gavy2006/CodeData/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Gavy2006/CodeData/tree/master/0567-permutation-in-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gavy2006/CodeData/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Gavy2006/CodeData/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Gavy2006/CodeData/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Gavy2006/CodeData/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Gavy2006/CodeData/tree/master/0567-permutation-in-string) |
 ## Manacher
@@ -263,8 +265,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gavy2006/CodeData/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Gavy2006/CodeData/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gavy2006/CodeData/tree/master/0021-merge-two-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Gavy2006/CodeData/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
