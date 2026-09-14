@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gavy2006/CodeData/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gavy2006/CodeData/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gavy2006/CodeData/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Gavy2006/CodeData/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Gavy2006/CodeData/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gavy2006/CodeData/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gavy2006/CodeData/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Gavy2006/CodeData/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Gavy2006/CodeData/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Gavy2006/CodeData/tree/master/0416-partition-equal-subset-sum) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gavy2006/CodeData/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Gavy2006/CodeData/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gavy2006/CodeData/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gavy2006/CodeData/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Gavy2006/CodeData/tree/master/0567-permutation-in-string) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gavy2006/CodeData/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Gavy2006/CodeData/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Gavy2006/CodeData/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gavy2006/CodeData/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gavy2006/CodeData/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Gavy2006/CodeData/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
@@ -290,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gavy2006/CodeData/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gavy2006/CodeData/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
