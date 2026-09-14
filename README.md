@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gavy2006/CodeData/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gavy2006/CodeData/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Gavy2006/CodeData/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Gavy2006/CodeData/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Gavy2006/CodeData/tree/master/0414-third-maximum-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gavy2006/CodeData/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Gavy2006/CodeData/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Gavy2006/CodeData/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
