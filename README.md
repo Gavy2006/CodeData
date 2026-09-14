@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Gavy2006/CodeData/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gavy2006/CodeData/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Gavy2006/CodeData/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gavy2006/CodeData/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gavy2006/CodeData/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
@@ -309,5 +310,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Gavy2006/CodeData/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
