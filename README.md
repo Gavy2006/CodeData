@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gavy2006/CodeData/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Gavy2006/CodeData/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gavy2006/CodeData/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Gavy2006/CodeData/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gavy2006/CodeData/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Gavy2006/CodeData/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Gavy2006/CodeData/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Gavy2006/CodeData/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Gavy2006/CodeData/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Gavy2006/CodeData/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gavy2006/CodeData/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gavy2006/CodeData/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Gavy2006/CodeData/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Gavy2006/CodeData/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Gavy2006/CodeData/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
