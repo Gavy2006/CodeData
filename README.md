@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Gavy2006/CodeData/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Gavy2006/CodeData/tree/master/1049-last-stone-weight-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Gavy2006/CodeData/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gavy2006/CodeData/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Gavy2006/CodeData/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
