@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gavy2006/CodeData/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gavy2006/CodeData/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Gavy2006/CodeData/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Gavy2006/CodeData/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Gavy2006/CodeData/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Gavy2006/CodeData/tree/master/0509-fibonacci-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Gavy2006/CodeData/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gavy2006/CodeData/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Gavy2006/CodeData/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gavy2006/CodeData/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gavy2006/CodeData/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Gavy2006/CodeData/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gavy2006/CodeData/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Gavy2006/CodeData/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Gavy2006/CodeData/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Gavy2006/CodeData/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Gavy2006/CodeData/tree/master/0876-middle-of-the-linked-list) |
