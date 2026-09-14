@@ -1,60 +1,42 @@
 class Solution {
     public String longestPalindrome(String s) {
 
-        if (s.length() <= 1)
+        if (s.length() == 1)
             return s;
 
-        int max = 1;
-        String maxstr = s.substring(0, 1);
+        int max = Integer.MIN_VALUE;
+        String str = "";
 
         for (int i = 0; i < s.length(); i++) {
 
-            // yaad se odd case hai ye apna 
-            int low = i-1 ;
-            int high = i+1 ;
+            int low = i;
+            int high = i + 1;
 
-             while(low >= 0 && high< s.length()){
-                  
-                  if(s.charAt(low) == s.charAt(high)){
-                    low-- ;
-                    high++ ;
-                  }
+            while (low >= 0 && high < s.length() && s.charAt(low) == s.charAt(high)) {
+                low--;
+                high++;
+            }
+            if (high - low > max) {
+                str = s.substring(low + 1, high);
+            }
 
-                  else{
-                    break ;
-                  }
-             }
+            max = Math.max(max, high - low);
 
-             if( (high - low - 1) > max){
-               
-               maxstr = s.substring(low+1 , high) ;
-               max  = high - low - 1 ;
-             }
+            low = i - 1;
+            high = i + 1;
 
+            while (low >= 0 && high < s.length() && s.charAt(low) == s.charAt(high)) {
+                low--;
+                high++;
+            }
 
-              // even se even case hai ye apna 
-             low = i ;
-             high = i+1 ;
+            if (high - low > max) {
+                str = s.substring(low + 1, high);
+            }
+            max = Math.max(max, high - low);
 
-             while(low >= 0 && high< s.length()){
-                  
-                  if(s.charAt(low) == s.charAt(high)){
-                    low-- ;
-                    high++ ;
-                  }
-
-                  else{
-                    break ;
-                  }
-             }
-
-             if( (high - low - 1) > max){
-               
-               maxstr = s.substring(low+1 , high) ;
-               max  = high - low - 1 ;
-             }
         }
 
-        return maxstr ;
+        return str;
     }
 }
