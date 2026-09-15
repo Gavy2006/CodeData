@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Gavy2006/CodeData/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Gavy2006/CodeData/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0931-minimum-falling-path-sum) |
+| [1046-last-stone-weight](https://github.com/Gavy2006/CodeData/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Gavy2006/CodeData/tree/master/1049-last-stone-weight-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Gavy2006/CodeData/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Gavy2006/CodeData/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
