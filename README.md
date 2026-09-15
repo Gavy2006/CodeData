@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Gavy2006/CodeData/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Gavy2006/CodeData/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Gavy2006/CodeData/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Gavy2006/CodeData/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Gavy2006/CodeData/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Gavy2006/CodeData/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Gavy2006/CodeData/tree/master/0779-k-th-symbol-in-grammar) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Gavy2006/CodeData/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Gavy2006/CodeData/tree/master/0779-k-th-symbol-in-grammar) |
 ## Design
 |  |
 | ------- |
