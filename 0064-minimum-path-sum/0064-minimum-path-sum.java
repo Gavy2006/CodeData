@@ -1,26 +1,44 @@
 class Solution {
     public int minPathSum(int[][] grid) {
 
-        Integer[][] dp = new Integer[grid.length][grid[0].length];
+        int[][] dp = new int[grid.length][grid[0].length];
 
-        return mycode(grid, dp, 0, 0);
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+
+        int row = grid.length - 1;
+        int col = grid[0].length - 1;
+
+        return mycode(row, col, grid, dp);
     }
 
-    public static int mycode(int[][] arr, Integer[][] dp, int row, int col) {
+    public static int mycode(int row, int col, int[][] grid, int[][] dp) {
 
-        if (row >= arr.length || col >= arr[0].length)
-            return (int) 1e9;
+        if (row == 0 && col == 0)
+            return grid[0][0];
 
-        if (row == arr.length - 1 && col == arr[0].length - 1)
-            return arr[row][col];
-         
-          if (dp[row][col] != null)
-              return dp[row][col];
+        if (dp[row][col] != -1)
+            return dp[row][col];
 
-          int  a = arr[row][col] + mycode(arr, dp, row + 1, col);
-          int  b = arr[row][col] + mycode(arr, dp, row, col + 1);
-        
+        int a = Integer.MAX_VALUE;
+        int b = Integer.MAX_VALUE;
 
-        return dp[row][col] = Math.min(a, b);
+        if (row > 0) {
+
+            a = grid[row][col] + mycode(row - 1, col, grid, dp);
+
+        }
+
+        if (col > 0) {
+
+            b = grid[row][col] + mycode(row, col - 1, grid, dp);
+
+        }
+
+        dp[row][col] = Math.min(a, b);
+
+        return dp[row][col];
     }
+
 }
