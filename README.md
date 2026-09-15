@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Gavy2006/CodeData/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Gavy2006/CodeData/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Gavy2006/CodeData/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Gavy2006/CodeData/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Gavy2006/CodeData/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gavy2006/CodeData/tree/master/0474-ones-and-zeroes) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gavy2006/CodeData/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Gavy2006/CodeData/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gavy2006/CodeData/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gavy2006/CodeData/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Gavy2006/CodeData/tree/master/0567-permutation-in-string) |
@@ -195,22 +197,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Gavy2006/CodeData/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gavy2006/CodeData/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Gavy2006/CodeData/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gavy2006/CodeData/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gavy2006/CodeData/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Gavy2006/CodeData/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gavy2006/CodeData/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gavy2006/CodeData/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Gavy2006/CodeData/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -256,10 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gavy2006/CodeData/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gavy2006/CodeData/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gavy2006/CodeData/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gavy2006/CodeData/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
