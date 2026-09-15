@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gavy2006/CodeData/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gavy2006/CodeData/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Gavy2006/CodeData/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Gavy2006/CodeData/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gavy2006/CodeData/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gavy2006/CodeData/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Gavy2006/CodeData/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gavy2006/CodeData/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Gavy2006/CodeData/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/Gavy2006/CodeData/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Gavy2006/CodeData/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Gavy2006/CodeData/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gavy2006/CodeData/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -353,5 +355,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Gavy2006/CodeData/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Gavy2006/CodeData/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
