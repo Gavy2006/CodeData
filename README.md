@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gavy2006/CodeData/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Gavy2006/CodeData/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Gavy2006/CodeData/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Gavy2006/CodeData/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gavy2006/CodeData/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Gavy2006/CodeData/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gavy2006/CodeData/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gavy2006/CodeData/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Gavy2006/CodeData/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Gavy2006/CodeData/tree/master/0494-target-sum) |
 ## Greedy
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gavy2006/CodeData/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Gavy2006/CodeData/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Gavy2006/CodeData/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Gavy2006/CodeData/tree/master/0779-k-th-symbol-in-grammar) |
