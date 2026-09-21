@@ -1,31 +1,40 @@
 class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
         
-        Integer[][] dp = new Integer[text1.length() ][text2.length() ] ;
+        int[][] dp = new int[text1.length()][text2.length()] ;
 
-        return mycode(text1 , text2 , 0 , 0  , dp) ;
+        for(int[] row : dp){
+            Arrays.fill(row , -1) ;
+        }
+
+        return mycode(text1 , text2 , text1.length()-1 , text2.length()-1 , dp ) ;
     }
 
-    public static int mycode(String text1 , String text2 , int i1 , int i2 , Integer[][] dp ){
+    public static int mycode(String text1 , String text2 , int a , int b , int[][] dp){
+           
+        if(a<0 || b<0 ) return 0 ;   
+         
+         if(dp[a][b] != -1) return dp[a][b] ;
 
-        if(i1 == text1.length() || i2 == text2.length()) return 0 ;
-
-       if(dp[i1][i2] != null) return dp[i1][i2] ;
-
-
-       if(text1.charAt(i1) == text2.charAt(i2)){
-
-        return dp[i1][i2]  = 1 + mycode(text1 , text2 , i1+1 ,i2 +1 , dp) ;
-       }
+        int c = Integer.MIN_VALUE ;
+        int d = Integer.MIN_VALUE ;
 
 
-       else{
-
-        return dp[i1][i2]  = Math.max(mycode(text1 , text2 , i1+1 ,i2  , dp) , mycode(text1 , text2 , i1 ,i2 +1 , dp)) ; 
-       }
-
+        if(text1.charAt(a) == text2.charAt(b) ){
+            c = 1 + mycode(text1 , text2 , a-1 , b-1 , dp);
+        }
 
 
+        else {
 
+            d = 0 + Math.max( mycode(text1 , text2 , a , b-1 , dp) ,  mycode(text1 , text2 , a-1 , b , dp)) ; 
+        }
+
+
+        dp[a][b] = Math.max(c,d) ;
+ 
+
+
+               return dp[a][b] ;
     }
 }
